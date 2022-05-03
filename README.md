@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Hi, I'm Paulo, creator of content and web applications!
 <div align="center">
   <a href="https://github.com/cr4zyd3ath">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cr4zyd3ath&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
