@@ -1,4 +1,4 @@
-## Olá meu nome é Paulo, devsenvolver e criador de eb aplicações!
+## Olá meu nome é Paulo, desenvolver e criador de eb aplicações!
 <div align="center">
   <a href="https://github.com/cr4zyd3ath">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
