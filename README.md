@@ -1,4 +1,4 @@
-## Hi, I'm Paulo, creator of content and web applications!
+## Hi, I'm Paulo, Software developer and creator of programming and technology content!
 <div align="center">
   <a href="https://github.com/cr4zyd3ath">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cr4zyd3ath&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
