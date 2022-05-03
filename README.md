@@ -1,4 +1,4 @@
-## Olá meu nome é Paulo, desenvolver e criador de eb aplicações!
+## Olá meu nome é Paulo, desenvolver e criador de web aplicações xafASZDSA>Dadadasdadasdasd!
 <div align="center">
   <a href="https://github.com/cr4zyd3ath">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cr4zyd3ath&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
